@@ -1,5 +1,4 @@
 Customer Segmentation & Behavioral Analysis (EDA)
-📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on customer data to understand behavior patterns and identify meaningful customer segments. The dataset includes demographic details, profession, family size, and spending behavior.
 
